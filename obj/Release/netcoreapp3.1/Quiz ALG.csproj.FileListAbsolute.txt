@@ -1,0 +1,82 @@
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\Quiz ALG.exe
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\Quiz ALG.deps.json
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\Quiz ALG.runtimeconfig.json
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\Quiz ALG.runtimeconfig.dev.json
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\Quiz ALG.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\Quiz ALG.pdb
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.csproj.AssemblyReference.cache
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG_MarkupCompile.cache
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG_MarkupCompile.lref
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.g.resources
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.AssemblyInfoInputs.cache
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.AssemblyInfo.cs
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.csproj.CoreCompileInputs.cache
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.csproj.CopyComplete
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.pdb
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG.genruntimeconfig.cache
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\App.baml
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\obj\Release\netcoreapp3.1\Quiz ALG_Content.g.cs
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\Quiz ALG.exe
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\Quiz ALG.deps.json
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\Quiz ALG.runtimeconfig.json
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\Quiz ALG.runtimeconfig.dev.json
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\Quiz ALG.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\Quiz ALG.pdb
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.csproj.AssemblyReference.cache
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\EditQuiz.g.cs
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\QuizGame.g.cs
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG_Content.g.cs
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG_MarkupCompile.cache
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG_MarkupCompile.lref
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\App.baml
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\EditQuiz.baml
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\QuizGame.baml
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.g.resources
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.AssemblyInfoInputs.cache
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.AssemblyInfo.cs
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.csproj.CoreCompileInputs.cache
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.csproj.CopyComplete
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.pdb
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\obj\Release\netcoreapp3.1\Quiz ALG.genruntimeconfig.cache
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nori-\Downloads\Quiz ALG (C#) - Código Fonte\Quiz ALG (C#) - Código Fonte\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll

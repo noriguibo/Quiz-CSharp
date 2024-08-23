@@ -1,0 +1,8 @@
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\pub\Quiz ALG.exe
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\pub\Quiz ALG.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\pub\Quiz ALG.deps.json
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\pub\Quiz ALG.runtimeconfig.json
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\pub\Quiz ALG.pdb
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\pub\Npgsql.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\pub\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nori-\Downloads\Quiz ALG - Test\Quiz ALG\pub\System.Runtime.CompilerServices.Unsafe.dll
